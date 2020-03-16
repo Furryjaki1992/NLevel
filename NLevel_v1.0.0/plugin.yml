@@ -1,0 +1,5 @@
+name: NLevel
+main: NLevel\NLevel
+api: 3.10.0
+version: 1.0.0
+author: AvasKr
